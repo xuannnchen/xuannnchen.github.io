@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuan&#39;s Mind Palette</title>
+    <link>https://xuannnchen.github.io/</link>
+    <description>Recent content on Xuan&#39;s Mind Palette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xuannnchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola ! Nice to meet U.</title>
+      <link>https://xuannnchen.github.io/2021/08/06/hello-world/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuannnchen.github.io/2021/08/06/hello-world/</guid>
+      <description> “Live beautifully, dream passionately, love completely. ”
+ Be Nice </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xuannnchen.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuannnchen.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xuannnchen.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuannnchen.github.io/top/about/</guid>
+      <description>&amp;ndash; Xuan Chen Taiwan,Taipei | Born in 1996/07/05 Graduated from Yuan Ze University, Department of Art and Design. The individual with a contradictory soul of romance and rationality, freedom and goodness coexist. Xuan Chen,1996/07/05，台北人 | 畢業於 元智大學藝術與設計學系。 擁有</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xuannnchen.github.io/top/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuannnchen.github.io/top/service/</guid>
+      <description>服務項目 平面設計 剪輯後製 攝影 如需服務項目，請寄信至以下信箱： email: aiimeeeflo0705@gmail.com 目前尚未開放服務</description>
+    </item>
+    
+  </channel>
+</rss>
